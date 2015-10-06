@@ -66,11 +66,11 @@ module.exports = function(app, express) {
     
     
 
-var text = 'Hello world from your sweetheart <3\n\n';
+var text = 'Yo YO !! :D\n\n';
 
 var mailOptions = {
     from: 'deep.moradia92@gmail.com', // sender address
-    to: 'ami.baldev12@gmail.com', // list of receivers
+    to: 'deep.moradia92@gmail.com', // list of receivers
     subject: 'Email from App', // Subject line
     text: text //, // plaintext body
     // html: '<b>Hello world ✔</b>' // You can choose to send an HTML body instead
